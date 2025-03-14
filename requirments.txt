@@ -1,3 +1,4 @@
 requests>=2.25.0
 python-dotenv>=0.15.0
 unidiff>=0.5.0
+python-dotenv
